@@ -12,8 +12,8 @@ console.log(cajaAudifonos)
  
 // otras formas
  
-var nombre = "Alessandro"
-nombre = "Felipe"
+var nombre = "Miguel"
+nombre = "Tamat"
 var edad
  
 const PI = 3.14159
