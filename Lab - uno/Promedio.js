@@ -1,4 +1,7 @@
 /**
+ * 
+ * Miguel Antonio Tamat Ajuchan 2024024
+ * 
  * Crea una función que calcule la media aritmética (promedio) de un
    arreglo de números.
  */

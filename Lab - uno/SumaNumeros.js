@@ -1,4 +1,7 @@
 /**
+ * 
+ * Miguel Antonio Tamat Ajuchan 2024024
+ * 
  * Crea un programa que calcule la suma de todos los números del 1 al
 50.
  */

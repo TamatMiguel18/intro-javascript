@@ -1,4 +1,7 @@
 /**
+ *
+ * Miguel Antonio Tamat Ajuchan 2024024 
+ * 
  * 2. Escribe un programa que solicite la edad de un usuario y determine si
  * es mayor de edad (18 años o más).
  */

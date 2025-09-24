@@ -1,4 +1,7 @@
 /**
+ * 
+ * Miguel Antonio Tamat Ajuchan 2024024
+ * 
  * Escribe una función que imprima los números del 1 al 100 en la
     consola.
  */

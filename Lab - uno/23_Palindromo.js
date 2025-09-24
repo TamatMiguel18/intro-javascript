@@ -1,4 +1,7 @@
 /**
+ * 
+ * Miguel Antonio Tamat Ajuchan 2024024
+ * 
  * Escribe una función que determine si una cadena de texto es un
 palíndromo (se lee igual al derecho y al revés).
  */
